@@ -50,7 +50,7 @@
 
                                 <!-- Post Content -->
                                 <div class="post-content">
-                                    <a href="#" class="post-cata">Novidades</a>
+                                    <a href="#" class="post-cata cata-sm cata-novidade">Novidades</a>
                                     <a href="single-post.php" class="post-title">Reunification of migrant toddlers, parents should be completed Thursday</a>
                                     <div class="post-meta d-flex">
                                         <a href="#"><i class="fa fa-comments-o" aria-hidden="true"></i> 25</a>
@@ -71,7 +71,7 @@
 
                                 <!-- Post Content -->
                                 <div class="post-content">
-                                    <a href="#" class="post-cata">Novidades</a>
+                                    <a href="#" class="post-cata cata-sm cata-clips">Clips</a>
                                     <a href="single-post.php" class="post-title">Reunification of migrant toddlers, parents should be completed Thursday</a>
                                     <div class="post-meta d-flex">
                                         <a href="#"><i class="fa fa-comments-o" aria-hidden="true"></i> 25</a>
@@ -92,7 +92,7 @@
 
                                 <!-- Post Content -->
                                 <div class="post-content">
-                                    <a href="#" class="post-cata">Novidades</a>
+                                    <a href="#" class="post-cata cata-sm cata-novidade">Novidades</a>
                                     <a href="single-post.php" class="post-title">Reunification of migrant toddlers, parents should be completed Thursday</a>
                                     <div class="post-meta d-flex">
                                         <a href="#"><i class="fa fa-comments-o" aria-hidden="true"></i> 25</a>
@@ -114,7 +114,7 @@
 
                                 <!-- Post Content -->
                                 <div class="post-content">
-                                    <a href="#" class="post-cata">Novidades</a>
+                                    <a href="#" class="post-cata cata-sm cata-novidade">Novidades</a>
                                     <a href="single-post.php" class="post-title">Reunification of migrant toddlers, parents should be completed Thursday</a>
                                     <div class="post-meta d-flex">
                                         <a href="#"><i class="fa fa-comments-o" aria-hidden="true"></i> 25</a>
@@ -136,7 +136,7 @@
 
                                 <!-- Post Content -->
                                 <div class="post-content">
-                                    <a href="#" class="post-cata">Novidades</a>
+                                    <a href="#" class="post-cata cata-sm cata-novidade">Novidades</a>
                                     <a href="single-post.php" class="post-title">Reunification of migrant toddlers, parents should be completed Thursday</a>
                                     <div class="post-meta d-flex">
                                         <a href="#"><i class="fa fa-comments-o" aria-hidden="true"></i> 25</a>
@@ -158,7 +158,7 @@
 
                                 <!-- Post Content -->
                                 <div class="post-content">
-                                    <a href="#" class="post-cata">Novidades</a>
+                                    <a href="#" class="post-cata cata-sm cata-novidade">Novidades</a>
                                     <a href="single-post.php" class="post-title">Reunification of migrant toddlers, parents should be completed Thursday</a>
                                     <div class="post-meta d-flex">
                                         <a href="#"><i class="fa fa-comments-o" aria-hidden="true"></i> 25</a>
@@ -180,7 +180,7 @@
 
                                 <!-- Post Content -->
                                 <div class="post-content">
-                                    <a href="#" class="post-cata">Novidades</a>
+                                    <a href="#" class="post-cata cata-sm cata-novidade">Novidades</a>
                                     <a href="single-post.php" class="post-title">Reunification of migrant toddlers, parents should be completed Thursday</a>
                                     <div class="post-meta d-flex">
                                         <a href="#"><i class="fa fa-comments-o" aria-hidden="true"></i> 25</a>
@@ -451,7 +451,7 @@
 
                                 <!-- Post Content -->
                                 <div class="post-content">
-                                    <a href="#" class="post-cata">Novidades</a>
+                                    <a href="#" class="post-cata cata-sm cata-novidade">Novidades</a>
                                     <a href="single-post.php" class="post-title">Reunification of migrant toddlers, parents should be completed Thursday</a>
                                     <div class="post-meta d-flex">
                                         <a href="#"><i class="fa fa-comments-o" aria-hidden="true"></i> 25</a>
@@ -471,7 +471,7 @@
 
                                 <!-- Post Content -->
                                 <div class="post-content">
-                                    <a href="#" class="post-cata">Novidades</a>
+                                    <a href="#" class="post-cata cata-sm cata-clips">Clips</a>
                                     <a href="single-post.php" class="post-title">Reunification of migrant toddlers, parents should be completed Thursday</a>
                                     <div class="post-meta d-flex">
                                         <a href="#"><i class="fa fa-comments-o" aria-hidden="true"></i> 25</a>
@@ -594,7 +594,7 @@
                             <div class="col-12 col-lg-6">
                                 <!-- Section Heading -->
                                 <div class="section-heading style-2">
-                                    <h4>Tutoriais</h4>
+                                    <h4>Campeonatos</h4>
                                     <div class="line"></div>
                                 </div>
 

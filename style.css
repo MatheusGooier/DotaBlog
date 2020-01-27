@@ -930,6 +930,8 @@ input:focus {
     background-color: #db4437; }
   .post-cata.cata-dota {
     background-color: #44BD32; }
+  .post-cata.cata-clips {
+    background-color: #772ce8; }    
   .post-cata:hover, .post-cata:focus {
     background-color: #0f1112;
     font-size: 12px; }

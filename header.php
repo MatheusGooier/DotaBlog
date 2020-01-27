@@ -73,12 +73,13 @@
                                     <li><a href="quemsomos.php">Quem somos</a></li>
                                     <li><a href="#">Videos</a>
                                         <ul class="dropdown">
-                                            <li><a href="index.php">- Todos</a></li>
-                                            <li><a href="archive-list.php">- Campeonatos</a></li>
-                                            <li><a href="archive-grid.php">- Tutoriais</a></li>
-                                            <li><a href="single-post.php">- Twitch Clips</a></li>                                            
+                                            <li><a href="grid-novidades.php">- Novidades</a></li>
+                                            <li><a href="grid-campeonatos.php">- Campeonatos</a></li>
+                                            <li><a href="grid-tutoriais.php">- Tutoriais</a></li>
+                                            <li><a href="grid-clips.php">- Twitch Clips</a></li>                                            
                                         </ul>
-                                    </li><!--
+                                    </li> 
+                                    <!--
                                     <li><a href="#">Features</a>
                                         <div class="megamenu">
                                             <ul class="single-mega cn-col-4">
@@ -125,6 +126,12 @@
                                     </li>
                                     -->
                                     <li><a href="contact.php">Contato</a></li>
+                                    <li><a href="#">Postagens</a>
+                                        <ul class="dropdown">
+                                            <li><a href="new-post.php">- Nova</a></li>
+                                            <li><a href="">- Editar( construção)</a></li>                                     
+                                        </ul>
+                                    </li>
                                 </ul>
                             </div>
                             <!-- Nav End -->
